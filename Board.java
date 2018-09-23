@@ -11,7 +11,6 @@
 
 public class Board{
 	private int[][] board;
-	private int test;
 
 	//creates a 10 x 10 board
 	public Board(){
